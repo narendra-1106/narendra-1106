@@ -75,7 +75,6 @@
 
 ---
 
-
 ## 🏆 Certifications
 
 <div align="center">
