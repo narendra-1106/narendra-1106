@@ -1,4 +1,3 @@
-<title>Narendra Jagtap | Portfolio</title>
 <meta name="description" content="Narendra Jagtap yanche official portfolio. Web Developer." />
 <meta name="keywords" content="Narendra Jagtap, Narendra Portfolio" />
 
