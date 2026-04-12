@@ -1,3 +1,7 @@
+<title>Narendra Jagtap | Portfolio</title>
+<meta name="description" content="Narendra Jagtap yanche official portfolio. Web Developer." />
+<meta name="keywords" content="Narendra Jagtap, Narendra Portfolio" />
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Narendra+Jagtap;Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
