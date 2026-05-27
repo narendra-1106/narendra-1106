@@ -26,18 +26,15 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrng4igz/giphy.gif" width="25"> About Me
 
-```javascript
-const narendra = {
-  name: "Narendra Jagtap",
-  title: "Full Stack Developer",
-  location: "Pune, India 🇮🇳",
-  education: "B.Tech in Computer Science",
-  passion: "Building scalable web applications",
-  quote: "Code is poetry written for machines and humans alike ✨"
-};
-```
+I'm a passionate **Full Stack Developer** from Pune, India 🇮🇳, crafting elegant solutions to complex problems. With a strong foundation in **Web Development, Data Structures, and Algorithms**, I love transforming innovative ideas into beautiful, functional digital products.
 
-I'm a passionate **Full Stack Developer** crafting elegant solutions to complex problems. With a strong foundation in **Web Development, Data Structures, and Algorithms**, I love transforming ideas into beautiful, functional digital products.
+**B.Tech Computer Science** student at DY Patil International University with a passion for:
+- 💻 Building scalable web applications
+- 🎯 Solving real-world problems through code
+- 📚 Continuous learning and exploration
+- 🤝 Collaborating with talented teams
+
+**My Motto**: "Code is poetry written for machines and humans alike" ✨
 
 ---
 
@@ -178,15 +175,7 @@ I'm a passionate **Full Stack Developer** crafting elegant solutions to complex 
 
 ---
 
-## 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api?username=narendra-1106" alt="Contribution Graph" />
-</div>
-
----
-
-## 🐍 GitHub Snake Animation
+## 🐍 My GitHub Contribution Graph
 
 <div align="center">
   <img src="https://github.com/narendra-1106/narendra-1106/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
