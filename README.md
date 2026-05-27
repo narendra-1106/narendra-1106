@@ -17,24 +17,21 @@
   <a href="mailto:narendrajagtap@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 </div>
 
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrng4igz/giphy.gif" width="25"> About Me
 
-I'm a passionate **Full Stack Developer** from Pune, India 🇮🇳, crafting elegant solutions to complex problems. With a strong foundation in **Web Development, Data Structures, and Algorithms**, I love transforming innovative ideas into beautiful, functional digital products.
+Hi! I'm Narendra, a passionate **Full Stack Web Developer** from Pune, India. I'm currently pursuing my **B.Tech in Computer Science** at DY Patil International University and love building beautiful, scalable web applications that solve real-world problems.
 
-**B.Tech Computer Science** student at DY Patil International University with a passion for:
-- 💻 Building scalable web applications
-- 🎯 Solving real-world problems through code
-- 📚 Continuous learning and exploration
-- 🤝 Collaborating with talented teams
+**What drives me:**
+- 🚀 Creating elegant solutions with clean code
+- 💡 Learning new technologies and best practices
+- 🤝 Collaborating with amazing teams
+- 🎯 Turning ideas into reality through development
 
-**My Motto**: "Code is poetry written for machines and humans alike" ✨
+I enjoy working across the entire stack—from crafting responsive UIs with React to building robust backends with Node.js. Always excited to work on challenging projects and contribute to open source!
 
 ---
 
